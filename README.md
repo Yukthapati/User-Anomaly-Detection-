@@ -1,6 +1,5 @@
 # Create a more detailed README.md content with expanded sections
 
-readme_detailed = """
 # 🔐 User Anomaly Detection 
 
 ## 🧠 Project Objective
