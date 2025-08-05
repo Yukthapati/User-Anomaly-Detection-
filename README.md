@@ -1,5 +1,3 @@
-# Create a more detailed README.md content with expanded sections
-
 # 🔐 User Anomaly Detection 
 
 ## 🧠 Project Objective
