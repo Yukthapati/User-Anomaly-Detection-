@@ -25,5 +25,6 @@ This is inspired by real-world problems tackled by Trust & Safety teams at compa
 - Basic knowledge of Pandas, Scikit-learn, and Matplotlib
 
 
-git clone https://github.com/YOUR-USERNAME/user-anomaly-detection.git
+git clone 
+https://github.com/Yukthapati/user-anomaly-detection.git
 cd user-anomaly-detection
